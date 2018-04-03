@@ -15,10 +15,12 @@ If you already have Python but not Anaconda, you'll need to install Jupyter note
 If you installed Anaconda on Windows, open Anaconda Prompt. For everyone else open your normal terminal.
 
 Navigate to where you want the files to go and enter:
-```git clone https://github.com/tamera-lanham/byfnn-workshop.git
+```
+git clone https://github.com/tamera-lanham/byfnn-workshop.git
 cd byfnn-workshop
 pip install -r requirements.txt
-jupyter notebook```
+jupyter notebook
+```
 
 At the end it should display a URL for you to paste to your browser where you can get to Jupyter notebook!
 
