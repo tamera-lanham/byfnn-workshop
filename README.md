@@ -10,7 +10,7 @@ If you don't yet have Python on your machine, I recommend installing the [Anacon
 If you already have Python but not Anaconda, you'll need to install Jupyter notebook. In your terminal, enter:
 ```pip install jupyter```
 
-**Clone this project, and install its dependencies***
+**Clone this project, and install its dependencies**
 
 If you installed Anaconda on Windows, open Anaconda Prompt. For everyone else open your normal terminal.
 
@@ -22,6 +22,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-At the end it should display a URL for you to paste to your browser where you can get to Jupyter notebook!
+At the end it should display a URL for you to paste to your browser where you can get to Jupyter notebook.
 
 If you have trouble with any of these steps, ask someone near you or a TA for a hand. We're happy to help!
