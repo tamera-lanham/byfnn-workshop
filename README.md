@@ -1,7 +1,7 @@
 # Build your first neural network workshop
 
 
-### Pre-reqs
+## Pre-reqs
 
 **Install Python**
 
