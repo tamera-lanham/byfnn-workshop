@@ -5,7 +5,7 @@
 
 **Install Python**
 
-If you don't yet have Python on your machine, I recommend installing the [Anaconda distribution](https://www.anaconda.com/download/). It comes packed with lots of fun goodies including Jupyter notebook.
+If you don't yet have Python 3 on your machine, I recommend installing the [Anaconda distribution](https://www.anaconda.com/download/). It comes packed with lots of fun goodies including Jupyter notebook.
 
 If you already have Python but not Anaconda, you'll need to install Jupyter notebook. In your terminal, enter:
 ```pip install jupyter```
