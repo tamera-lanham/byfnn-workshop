@@ -24,4 +24,4 @@ jupyter notebook
 
 At the end it should display a URL for you to paste to your browser where you can get to Jupyter notebook.
 
-If you have trouble with any of these steps, ask someone near you or a TA for a hand. We're happy to help!
+If you have trouble with any of these steps, it's no big deal. Just come to the workshop with what you have and we'll help you out! 
