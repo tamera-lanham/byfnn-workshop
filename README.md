@@ -24,4 +24,21 @@ jupyter notebook
 
 At the end it should display a URL for you to paste to your browser where you can get to Jupyter notebook.
 
-If you have trouble with any of these steps, it's no big deal. Just come to the workshop with what you have and we'll help you out! 
+
+**If the above didn't work, try installing with Docker**
+
+If you couldn't get Python working on your machine, you can still install the project using Docker.
+
+First, download and install Docker
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+* [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+
+Once Docker is installed and running, download the Dockerfile and use your terminal to navigate to the download location. Then enter:
+
+```
+docker build . -t workshop
+docker run -it -p 8888:8888 workshop
+```
+
+If you're still having trouble, it's no big deal. Just come to the workshop with what you have and we'll help you out! 
