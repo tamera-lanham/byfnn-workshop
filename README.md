@@ -42,3 +42,12 @@ docker run -it -p 8888:8888 workshop
 ```
 
 If you're still having trouble, it's no big deal. Just come to the workshop with what you have and we'll help you out! 
+
+
+## Additional materials
+
+There's tons of ways to learn more about neural networks, from books to courses to online tutorials. These are a couple of links to fill in some of the gaps in the workshop, but don't be afraid to go out and learn more on your own!
+
+* [TensorFlow's neural net playground](https://playground.tensorflow.org/) where you can interactively train a neural network
+* [A visual / interactive proof](http://neuralnetworksanddeeplearning.com/chap4.html) that a neural net can approximate any function
+* [An interactive tutorial](https://www.benfrederickson.com/numerical-optimization/) about numerical optimization, including gradient descent
